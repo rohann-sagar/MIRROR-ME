@@ -1,9 +1,10 @@
 # MIRROR-ME
 Hi everyone, my name is Rohan Sagar, and I’m the founder of MirrorMe.
+<img width="1536" height="1024" alt="ChatGPT Image Nov 20, 2025, 05_25_52 PM" src="https://github.com/user-attachments/assets/1dfcb104-b85a-4dfb-af42-7c74159f9f04" />
+
 
 MirrorMe — as the name suggests — is built on one powerful idea:
-To help people see themselves through the eyes of the world.<img width="1024" height="246" alt="ChatGPT Image Nov 20, 2025, 09_19_30 PM" src="https://github.com/user-attachments/assets/9cf76e4c-aebc-4895-a56b-0f8872847a4c" />
-
+To help people see themselves through the eyes of the world.
 We all know apps like NGL or similar anonymous feedback tools.
 But they offer just one basic feature: a link for anonymous messages, with very limited engagement and no deeper value.
 MirrorMe takes that same core concept, but expands it into a complete self-discovery ecosystem.
