@@ -126,4 +126,5 @@ ________________________________________
 •	All anonymous inputs are moderated and rate-limited; games never reveal sender identity.
 •	Opt-in for photo-based games; no image used without consent.
 
+in progress ⏳
 
